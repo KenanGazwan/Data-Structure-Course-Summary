@@ -18,7 +18,7 @@ This repository provides a **comprehensive technical summary** of the **Data Str
 ## 🚀 Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/KenanGazwan/Data-Structure-Course-Summary.git
+   git clone https://github.com/KenanKaddoura/Data-Structure-Course-Summary.git
 
 2. Open the PDF summary file inside the repository.
 3. Use it as a study reference for coursework and technical interviews.
