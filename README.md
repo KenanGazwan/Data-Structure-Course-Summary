@@ -1,6 +1,6 @@
 # 📚 Data Structure Course Summary  
 
-📌 **Repository:** [Data Structure Course Summary](https://drive.google.com/drive/folders/1_HkRfT7dLAk6wSVwpOpEgr_ztLdxbdTN?usp=drive_link)  
+📌 **Google Drive:** [Data Structure Course Summary](https://drive.google.com/drive/folders/1_HkRfT7dLAk6wSVwpOpEgr_ztLdxbdTN?usp=drive_link)  
 
 ## 📖 Overview  
 This repository provides a **comprehensive technical summary** of the **Data Structures** course, simplifying complex concepts for students. It serves as a key study resource, offering well-structured notes that cover fundamental data structures, algorithms, and their applications.  
